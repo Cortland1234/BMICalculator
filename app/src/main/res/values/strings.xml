@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BMICalculator_CortlandDiehm</string>
+    <string name="welcome">Let\'s Calculate Your BMI!</string>
+    <string name="question_one">How Tall Are You?</string>
+    <string name="question_two">How Much Do You Weigh?</string>
+    <string name="clear">Clear</string>
+    <string name="calculate">Calculate</string>
+    <string name="heart_rate">Calculate Heart Rate</string>
+    <string name="inch_hint">Inches</string>
+    <string name="feet_hint">Feet</string>
+    <string name="weight_hint">Pounds</string>
+    <string name="hr_welcome">Let\'s Calculate Your Max Heart Rate</string>
+    <string name="age_question">How Old Are You?</string>
+    <string name="age_hint">Age (Years)</string>
+
+</resources>
